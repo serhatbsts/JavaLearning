@@ -1,6 +1,6 @@
 package operatorler;
 
-public class IliskiselKarsilastirmaMantiksalOparatorler {
+public class Comparator {
     public static void main(String[] args) {
         int sayi1 = 10;
         int sayi2 = 11;
