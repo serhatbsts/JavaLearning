@@ -5,11 +5,11 @@ public class OperatorComperator {
         int sayi1 = 10;
         int sayi2 = 11;
 
-        System.out.println("Sayı1 eşit mi Sayı2 : " + (sayi1 == sayi2));
-        System.out.println("Sayı1 küçük mü Sayı2 :  " + (sayi1 < sayi2));
-        System.out.println("Sayı1 büyük mü Sayı2 : " + (sayi1 > sayi2));
-        System.out.println("Sayı1 küçük eşit mi Sayı2 : " + (sayi1 <= sayi2));
-        System.out.println("Sayı1 büyük eşit mi Sayı2 : " + (sayi1 >= sayi2));
+        System.out.println("Rakam eşit degil mi Sayı2 : " + (sayi1 == sayi2)+"kfdlsklfksfkd");
+        System.out.println("Sayı1 sdfsdfsdf mü Sayı2 :  " + (sayi1 == sayi2));
+        System.out.println("Sayı1 büyük sdfsdf Sayı2 : " + (sayi1 > sayi2));
+        System.out.println("Sayı1 fsdsdfsdf eşit mi Sayı2 : " + (sayi1 == sayi2));
+        System.out.println("Sayı1 büyük fsdfs mi Sayı2 : " + (sayi1 >= sayi2));
         System.out.println("Sayı1 eşit  değil mi Sayı2 : " + (sayi1 != sayi2));
 
         if (sayi1 < sayi2) {
